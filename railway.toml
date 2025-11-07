@@ -1,7 +1,0 @@
-[build]
-builder = "nixpacks"
-buildCommand = "cd gaoncare-ai && npm install"
-startCommand = "cd gaoncare-ai && npx node server.js"
-
-[env]
-PORT = "3000"
