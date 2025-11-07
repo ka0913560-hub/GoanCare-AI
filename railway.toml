@@ -1,7 +1,7 @@
 [build]
-builder = "NIXPACKS"
-buildCommand = "cd gaoncare-ai && corepack enable && corepack prepare npm@latest --activate && npm install"
-startCommand = "cd gaoncare-ai && npm start"
+builder = "nixpacks"
+buildCommand = "cd gaoncare-ai && npm install"
+startCommand = "cd gaoncare-ai && npx node server.js"
 
 [env]
 PORT = "3000"
