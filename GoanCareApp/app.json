@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "GoanCare Gemini",
+    "slug": "goancare-gemini",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#7A5AF8"
+    },
+    "android": {
+      "usesCleartextTraffic": true,
+      "package": "com.khush200606.goancaregemini"
+    },
+    "ios": {
+      "infoPlist": {
+        "NSAppTransportSecurity": {
+          "NSAllowsArbitraryLoads": true
+        }
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "4ca40a6c-453c-4915-9c93-a0a2518f1d76"
+      }
+    }
+  }
+}
