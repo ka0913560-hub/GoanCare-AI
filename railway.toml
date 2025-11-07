@@ -1,0 +1,4 @@
+[build]
+builder = "NIXPACKS"
+buildCommand = "cd gaoncare-ai && npm install"
+startCommand = "cd gaoncare-ai && node server.js"
