@@ -91,3 +91,12 @@ npx expo start
 # Website
 cd ../GaonCare
 # open index.html in browser
+
+
+
+### 🤝 Credits
+- **GaonCare Website** – Designed by [Arun Singh /GitHub Username - username7150]  
+- **GoanCare AI (Web + Mobile App)** – Developed by Khush Arora  
+
+
+
