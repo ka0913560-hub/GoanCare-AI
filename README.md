@@ -92,7 +92,7 @@ npx expo start
 cd ../GaonCare
 # open index.html in browser
 
-
+---
 
 ### 🤝 Credits
 - **GaonCare Website** – Designed by [Arun Singh /GitHub Username - username7150]  
