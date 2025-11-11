@@ -71,29 +71,6 @@ An informative and responsive website that provides details about GoanCare, heal
 - **AI:** Google Gemini API  
 - **Deployment:** Render, Expo EAS  
 
----
-
-## 🚀 How to Run Locally
-```bash
-# Clone the repo
-git clone https://github.com/ka0913560-hub/GoanCare-AI.git
-
-# Backend (WebApp)
-cd goancare-ai
-npm install
-node server.js
-
-# Mobile App
-cd ../GoanCareApp
-npm install
-npx expo start
-
-# Website
-cd ../GaonCare
-# open index.html in browser
-
----
-
 ### 🤝 Credits
 - **GaonCare Website** – Designed by [Arun Singh /GitHub Username - username7150]  
 - **GoanCare AI (Web + Mobile App)** – Developed by Khush Arora  
